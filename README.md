@@ -48,7 +48,7 @@ Raw Kaggle Dataset
 ---
 
 ### Regional Growth Dashboard
-![Regional Dashboard](regional-growth-dashboard.png)
+![Regional Dashboard](Regional-growth.png)
 
 ---
 
